@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://docs.ropensci.org/GSODR/index.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/GSODR/reference/GSODR-package.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/GSODR/reference/get_GSOD.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/GSODR/reference/get_inventory.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/GSODR/reference/nearest_stations.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/GSODR/reference/print.GSODR.Info.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/GSODR/reference/reformat_GSOD.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/GSODR/reference/update_station_list.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/GSODR/articles/GSODR.html</loc>
+  </url>
+</urlset>

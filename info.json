@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "8bdb24582b979cf59a207fb506b2911b53b4248a",
+    "author": "Adam Sparks <adamhsparks@icloud.com>",
+    "time": "2021-07-08 10:30:15",
+    "files": 1,
+    "merge": false,
+    "message": "Remove cran-comments.md\n"
+  },
+  "remote": "https://github.com/ropensci/GSODR",
+  "pkg": "GSODR"
+}
