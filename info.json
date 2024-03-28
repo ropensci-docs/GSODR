@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "7674eff2362417abae4c33d467861db16d04b331",
+    "author": "Adam H. Sparks <adam.sparks@curtin.edu.au>",
+    "time": "2024-03-28 05:15:02",
+    "files": 1,
+    "merge": false,
+    "message": "Fix README for nearest_stations()\n"
+  },
+  "repo": "https://github.com/ropensci/GSODR",
+  "pkg": "GSODR"
+}
