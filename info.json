@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "40d9d454757c6bf28a26a612904dd09b54be2a0a",
+    "author": "Adam H. Sparks <adamhsparks@icloud.com>",
+    "time": "2026-05-17T05:56:10Z",
+    "files": 1,
+    "merge": false,
+    "message": "fix: remove references to Travis or Appveyor\n"
+  },
+  "repo": "https://github.com/ropensci/GSODR",
+  "pkg": "GSODR",
+  "time": "2026-08-30T07:42:49Z"
+}

@@ -1,0 +1,4 @@
+# License
+
+    YEAR: 2017
+    COPYRIGHT HOLDER: Adam Sparks, Tomislav Hengl and Andrew Nelson
