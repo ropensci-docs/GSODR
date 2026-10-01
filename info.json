@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "f16c89be1c366bd53c217f4172f69e1e376ead28",
+    "author": "Sporks <adamhsparks@tuta.com>",
+    "time": "2026-10-01T03:07:46Z",
+    "files": 1,
+    "merge": false,
+    "message": "chore: Update codemeta.json\n"
+  },
+  "repo": "https://github.com/ropensci/GSODR",
+  "pkg": "GSODR",
+  "time": "2026-10-01T06:20:41Z"
+}
